@@ -17,3 +17,7 @@
  #CARPETA DIA 4: contiene 2 archivos ipynb donde continuamos trabajando con Python y afianzando conocimientos 05/09/2023
   #Marta-Copia de SpaceX - 1 - Data Collection Api v2.ipynb
   #Marta-Copia de SpaceX - 3 -EDA Using SQL.ipynb
+
+  #CARPETA DIA 5: contiene 2 archivos ipynb donde continuamos trabajando con Python y afianzando conocimientos 10/09/2023
+  #SpaceX - 2 - EDA.ipynb
+  #M4 - 07 - Numpy 1D.ipynb
